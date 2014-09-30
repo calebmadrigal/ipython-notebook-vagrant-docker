@@ -1,4 +1,4 @@
-ipython-notebook-vagrant-docker
-===============================
+hn-tracker
+==========
 
-IPython Notebook running in Docker running in Vagrant
+HackerNews Tracker
